@@ -20,7 +20,7 @@ World Bank population data: [World Bank – Population, total](https://data.worl
 
 ## 📸 Outputs
 
-![Top 10 Countries](top10_population_2023.png)
+![Top 10 Countries]![Image](https://github.com/user-attachments/assets/01053d5c-c7b1-4cf4-8514-f729cf53f419)
 ![Population Distribution](population_distribution_2023.png)
 
 ## 🚀 How to Run
