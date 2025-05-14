@@ -20,8 +20,8 @@ World Bank population data: [World Bank – Population, total](https://data.worl
 
 ## 📸 Outputs
 
-![Top 10 Countries]![Image](https://github.com/user-attachments/assets/01053d5c-c7b1-4cf4-8514-f729cf53f419)
-![Population Distribution](population_distribution_2023.png)
+[Top 10 Countries]![Image](https://github.com/user-attachments/assets/01053d5c-c7b1-4cf4-8514-f729cf53f419)
+[Population Distribution]![Image](https://github.com/user-attachments/assets/f9207fd5-0699-429b-83e7-de28e7c6ca9b)
 
 ## 🚀 How to Run
 1. Open the `world_population.ipynb` notebook in Google Colab
